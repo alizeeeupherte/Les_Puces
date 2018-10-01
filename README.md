@@ -45,12 +45,11 @@ Longitudinal section of the project revealing the games of levels and heights
 ![](detail_facade1.png?raw=true)
 ![](detail_facade2.png?raw=true)
 .
-
 ![](image3D_4.png?raw=true)
 
 
 
 
 ##### Work done in partnership with Alexandre Monceau
-##### Supervised by Mathieu Mercuriali, senior at OMA
+##### Supervised by Mathieu Mercuriali, senior urban designer at OMA
 

@@ -19,32 +19,31 @@ On the scale of our site, the Porte de Clignancourt, we wanted to create a cross
 ![](axo_programmatique.png?raw=true)
 ![](axo2.png?raw=true) 
 Programmatic axonometrics
+
 ![](plan_trame.png?raw=true) 
 Central core frame
 
 ![](couoe_l.png?raw=true)
-Longitudinal section of the project revealing the games of levels and heights
+![](coupe_transversale.png?raw=true)
+Longitudinal and transversal section of the project revealing the games of levels and heights
 
 
 
 
 ![](plan_marché_RDC.png?raw=true)
-.
+Market plan on the ground floor
 
 ![](plans_puces.png?raw=true)
-.
+Peripheral level plan where the fleas are implanted
 
 ![](plan_galeries.png?raw=true)
-.
+Level plan art galleries
 
 ![](image3D_2.pdf?raw=true)
-![](coupe_transversale.png?raw=true)
-.
-
 ![](image3D_3.png?raw=true)
 ![](detail_facade1.png?raw=true)
 ![](detail_facade2.png?raw=true)
-.
+We have worked several types of facades and double skins: opaque + wood cladding, opaque, glass + cladding, glass
 ![](image3D_4.png?raw=true)
 
 

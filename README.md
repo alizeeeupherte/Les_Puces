@@ -1,40 +1,19 @@
-## Welcome to GitHub Pages
+### Boulevard Périphérique
 
 ![](carte_paris.png?raw=true)
 
 
-You can use the [editor on GitHub](https://github.com/alizeeeupherte/les-puces/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The project involves switching to several scales on the Boulevard Périphérique. At the scale of the metropolis, the challenge remains to limit the place of the car. On our trunk it would represent 1/4 of the current wideyr of the tracks is 9 meters. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our objective was to intervene punctually on the Peripheral Boulevard to create a weaving and a connection between Paris and its suburbs. The development on this new urban boulevard is to develop or to live, small demountable structures. Ephemeral or not, we want to mark the site in an evolutionary way. The system can thus multiply or fade easily on the urban boulevard, that it does not remain only a way dedicated to the circulation with some infrastructures on it.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Porte de Clignancourt
 
-```markdown
-Syntax highlighted code block
+![](X?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+On the scale of our site, the Porte de Clignancourt, we wanted to create a crossing of this urban boulevard located 10m above the city. This building also wanted to be the icon, the landmark of these chips that we struggled to really delimit. With different programs within the same building, the idea was to meet different needs of users of the place. Exhibition space, market, auction room, restaurant with roof top terrace. To give it more visibility, we wanted to dig the ring road to bring more light to our building.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Work done in partnership with Alexandre Monceau.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alizeeeupherte/les-puces/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

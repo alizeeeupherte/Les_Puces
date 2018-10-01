@@ -21,8 +21,33 @@ On the scale of our site, the Porte de Clignancourt, we wanted to create a cross
 Programmatic axonometrics
 ![](plan_trame.png?raw=true) 
 Central core frame
+
 ![](couoe_l.png?raw=true)
 Longitudinal section of the project revealing the games of levels and heights
+
+
+
+
+![](plan_marché_RDC.png?raw=true)
+.
+
+![](plans_puces.png?raw=true)
+.
+
+![](plan_galeries.png?raw=true)
+.
+
+![](image3D_2.pdf?raw=true)
+![](coupe_transversale.png?raw=true)
+.
+
+![](image3D_3.png?raw=true)
+![](detail_facade1.png?raw=true)
+![](detail_facade2.png?raw=true)
+.
+
+![](image3D_4.png?raw=true)
+
 
 
 

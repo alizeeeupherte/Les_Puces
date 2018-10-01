@@ -10,7 +10,7 @@ Our objective was to intervene punctually on the Peripheral Boulevard to create 
 
 ### Porte de Clignancourt
 
-![](X?raw=true)
+![](image3D_1.png?raw=true)
 
 On the scale of our site, the Porte de Clignancourt, we wanted to create a crossing of this urban boulevard located 10m above the city. This building also wanted to be the icon, the landmark of these chips that we struggled to really delimit. With different programs within the same building, the idea was to meet different needs of users of the place. Exhibition space, market, auction room, restaurant with roof top terrace. To give it more visibility, we wanted to dig the ring road to bring more light to our building.
 

@@ -7,7 +7,7 @@ The project involves switching to several scales on the Boulevard Périphérique
 
 Our objective was to intervene punctually on the Peripheral Boulevard to create a weaving and a connection between Paris and its suburbs. The development on this new urban boulevard is to develop or to live, small demountable structures. Ephemeral or not, we want to mark the site in an evolutionary way. The system can thus multiply or fade easily on the urban boulevard, that it does not remain only a way dedicated to the circulation with some infrastructures on it.
 
-![](schéma_programmatique.png?raw=true)
+![](schéma_programmatique.png?raw=true)
 
 
 ### Porte de Clignancourt
@@ -30,7 +30,7 @@ Longitudinal and transversal section of the project revealing the games of level
 
 
 
-![](plan_marché_RDC.png?raw=true)
+![](plan_marché_RDC.png?raw=true)
 Market plan on the ground floor
 
 ![](plans_puces.png?raw=true)
@@ -51,4 +51,7 @@ We have worked several types of facades and double skins: opaque + wood cladding
 
 ##### Work done in partnership with Alexandre Monceau
 ##### Supervised by Mathieu Mercuriali, senior urban designer at OMA
+
+
+2018
 
